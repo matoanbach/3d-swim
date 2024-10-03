@@ -19,9 +19,11 @@ The project involes:
 <ul>
     <li>Collecting real-time data (real and complex values) from a transmitter using a receiver and Arduino Uno R3</li>
     <li>Lighting up the LED based on the real and complex values from the Arduino Uno R3</li>
-    <li>Processing the data and visualizing it in the polar form using NumPy and Matplotlib</li>
     <li>Controlling the Delta 3D printer (running MainsailOS on a Raspberry Pi 3) to move using Gcode</li>
+    <li>Processing the data and visualizing it in the polar form using NumPy and Matplotlib, a demonstrating video will be provided below:</li>
 </ul>
+
+[![Watch the video](https://i.ytimg.com/vi/Dqiara9PFGg/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLCDDDMW4DzBC6W-6sM0mxZMQUh6gQ)](https://youtu.be/Dqiara9PFGg)
 
 ## System Architecture
 
