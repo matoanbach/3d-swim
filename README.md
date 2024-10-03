@@ -51,26 +51,10 @@ The project involes:
 </ul>
 
 ## Results
-
-<!-- <div>
-    <div>
-        <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_1.jpeg" width="50%">
-        <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_2.jpeg" width="50%">
-    </div>
-    <div>
-        <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_3.jpeg" width="50%">
-        <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_4.jpeg" width="50%">
-    </div>
-    <div>
-        <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_5.jpeg" width="50%">
-        <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_6.jpeg" width="50%">
-    </div>
-</div> -->
-
-| <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_1.jpeg" width="200"> | <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_2.jpeg" width="200"> |
+| <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_1.jpeg" width="500"> | <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_2.jpeg" width="500"> |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_3.jpeg" width="200"> | <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_4.jpeg" width="200"> |
-| <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_5.jpeg" width="200"> | <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_6.jpeg" width="200"> |
+| <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_3.jpeg" width="500"> | <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_4.jpeg" width="500"> |
+| <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_5.jpeg" width="500"> | <img src="https://raw.githubusercontent.com/matoanbach/3d-swim/main/pics/result_6.jpeg" width="500"> |
 
 ## References
 
