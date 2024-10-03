@@ -18,7 +18,7 @@ The project involes:
 </ul>
 
 ## System Architecture
-
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/system_architecture.jpeg" width="100%">
 
 ## Implementation Details
 
@@ -50,7 +50,12 @@ The project involes:
 </ul>
 
 ## Results
-
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_1.jpeg" width="30%">
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_2.jpeg" width="30%">
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_3.jpeg" width="30%">
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_4.jpeg" width="30%">
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_5.jpeg" width="30%">
+<img src="https://raw.githubusercontent.com/matoanbach/3d-swim/refs/heads/main/pics/result_6.jpeg" width="30%">
 
 ## References
 
@@ -66,13 +71,4 @@ The project involes:
     <li>https://doi.org/10.1109/SDS49854.2020.9143940</li>
     <li>https://doi.org/10.1109/ICECCME52200.2021.9590939</li>
     <li>https://tspace.library.utoronto.ca/bitstream/1807/91693/3/Yang_Sen_201811_MAS_thesis.pdf</li>
-</ul>
-
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
 </ul>
