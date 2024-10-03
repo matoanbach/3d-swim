@@ -1,6 +1,12 @@
 # S.W.I.M 3D
 
 ## Table of Contents
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [System Architecture](#system-architecture)
+- [Implementation Details](#implementation-details)
+- [Results](#results)
+- [References](#references)
 
 ## Introduction
 
